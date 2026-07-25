@@ -1,6 +1,6 @@
 # 📊 Employee Leave / Attrition Dashboard
 
-![Dashboard Preview](image/employee.png)
+![Dashboard Preview](image/Employee.png)
 
 ## 📌 Overview
 
